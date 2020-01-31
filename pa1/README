@@ -1,0 +1,12 @@
+# Alyssa Melton 
+# amelton@ucsc.edu
+# CMPS101
+# 4/14/18
+# README
+
+PA5 INCLUDES:
+Makefile 					- creates excecutable, make, clean, submit and check
+README						- overview of program
+List.java					- List ADT
+Lex.java					- Manually sorts lines of input file using List ADT
+ListClient.java				-Client for surface level testing of List ADT

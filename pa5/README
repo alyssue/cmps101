@@ -1,0 +1,16 @@
+# Alyssa Melton 
+# amelton@ucsc.edu
+# CMPS101
+# 6/9/18
+# README
+
+PA6 INCLUDES:
+Makefile 			- creates excecutable
+README				- overview of program
+List.c				- List ADT
+List.h				- header file for List.c
+Graph.c 			- Graph ADT
+Graph.h 			- header file for Graph.c
+FindComponents.c 	- Client for Graph.c
+GraphTest.c
+

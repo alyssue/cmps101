@@ -1,0 +1,12 @@
+# Alyssa Melton 
+# amelton@ucsc.edu
+# CMPS101
+# 4/19/18
+# README
+
+PA2 INCLUDES:
+Makefile 		- creates excecutable, make, clean, submit and check
+README			- overview of program
+List.c			- List ADT
+Lex.c			- Manually sorts lines of input file using List ADT
+ListClient.c	-Client for surface level testing of List ADT
